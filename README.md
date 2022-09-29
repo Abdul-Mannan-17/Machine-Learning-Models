@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guruji117
+- 👋 Hi, I’m @Abdul Mannan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on my work 
